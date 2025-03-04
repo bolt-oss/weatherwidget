@@ -1,5 +1,5 @@
 {
-    "name": "bobdenotter/weatherwidget",
+    "name": "bolt-oss/weatherwidget",
     "description": "🌤 A simple Dashboard Widget that displays the current weather. So you don't actually need to go outside or open the curtains.",
     "type": "bolt-extension",
     "license": "MIT",
