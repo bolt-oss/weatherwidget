@@ -21,6 +21,9 @@
             "BobdenOtter\\WeatherWidget\\": "src/"
         }
     },
+    "replace": {
+        "bobdenotter/weatherwidget": "*"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {
